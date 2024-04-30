@@ -1,2 +1,2 @@
-# Pirate Game reloaded
+# Pirate Game Difficulty reloaded
  
