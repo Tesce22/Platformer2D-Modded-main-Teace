@@ -1,2 +1,3 @@
 # Pirate Game Difficulty reloaded
  
+#Mods to this game were created with interaction in mind. More enemies, more movement, and set objectives with a clear goal (though not noted, it’s to collect all the coins). Since the level is quite large, with unknown enemies and spikes and at hidden angles, I gave the character what seems like an absurd amount of health to account for attacks during player transition. I also added health potions to rejuvenate the player after losing health. An important point about this level is not to rush past it; explore all areas in zone A before trying to get to zone B. If you do not collect the required amount of coins, you will not be able to leave the level, and you will be stuck. 
